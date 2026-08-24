@@ -10,8 +10,6 @@
 
 ### 0.1 La puesta en estado no se reinventa
 
-Se usa el **procedimiento P** de [`test_v1.md` §0](test_v1.md) con el **delta de
-[`test_v2.md` §0](test_v2.md)**. En corto, lo que no se puede saltar:
 
 | Regla | Por qué |
 |---|---|
