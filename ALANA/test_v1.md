@@ -1,4 +1,4 @@
-# Pruebas v3 — Ronda L · las llamadas, caso de uso por caso de uso
+# Pruebas | Llamadas, caso de uso por caso de uso
 
 > **Para quién es esta hoja.** Es el listado que ejecuta **QA**. A diferencia de las rondas
 > anteriores —v1 probó *el canvas de extracción*, v2 probó *los comentarios del cliente*—,
