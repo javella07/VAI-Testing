@@ -10,7 +10,6 @@
 
 ### 0.1 La puesta en estado no se reinventa
 
-
 | Regla | Por qué |
 |---|---|
 | El trato se crea **por API con el token de Alana** | `branch_True_ALANA` filtra por `creator_user_id`. Un trato creado a mano **no entra al bot** |
