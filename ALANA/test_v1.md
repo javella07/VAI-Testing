@@ -1,19 +1,8 @@
 # Pruebas | Llamadas, caso de uso por caso de uso
 
-> **Para quién es esta hoja.** Es el listado que ejecuta **QA**. A diferencia de las rondas
-> anteriores —v1 probó *el canvas de extracción*, v2 probó *los comentarios del cliente*—,
-> esta ronda prueba **la llamada como caso de uso**: quién la origina, cuándo sale, cuántas
-> veces, qué contador toca, cuándo deja de salir y qué queda escrito de ella.
 >
 > Fecha de redacción: **2026-08-24**.
-> Ids **`L1`–`L22`**, elegidos para no chocar con `T*` (v1), `R*`/`M*`/`F*` (v2) ni con los
-> pendientes (`B*`, `C*`, `E*`, `V*`, `X*`).
 >
-> Fuentes: [`../progress/final_Model.md`](../progress/final_Model.md) (el modelo objetivo),
-> [`../progress/otros_canvas_nodos.md`](../progress/otros_canvas_nodos.md) (inicializador y
-> cron), [`../progress/extraccion_nodos.md`](../progress/extraccion_nodos.md) (rama de
-> fallida) y los exports de `Flow_VAI-ERP/`. Estado de cada pendiente citado:
-> [`../progress/pendientes.md`](../progress/pendientes.md).
 
 ---
 
